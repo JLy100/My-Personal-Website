@@ -1,6 +1,6 @@
 # My-Personal-Website
 
-Jennifer Ly's personal website, built with HTML, CSS, and vanilla JavaScript.
+Jenni's personal website, built with HTML, CSS, and vanilla JavaScript.
 
 Open `index.html` in a browser to explore the website. No installation or build step is required.
 
